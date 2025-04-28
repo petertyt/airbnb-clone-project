@@ -80,3 +80,62 @@ Key features to be implemented:
 - **Redux** or **Context API** for state management
 - **REST APIs** for data fetching
 - **Jest** for unit and integration testing
+
+---
+
+## 🧠 UI/UX Design Planning
+
+### Design Goals:
+- Create a clean, intuitive interface.
+- Ensure ease of navigation and clear user flows.
+- Optimize mobile responsiveness.
+- Use consistent styling and modern design patterns.
+
+### Key Features:
+- Clear property presentation.
+- Easy property booking workflow.
+- Effective search and filter functionality.
+
+### Primary Pages (in Table View):
+
+| Page                   | Purpose |
+|-------------------------|---------|
+| Property Listing View   | Display all available property listings with essential information. |
+| Listing Detailed View   | Show detailed information of a selected property (price, location, description, amenities). |
+| Simple Checkout View    | Enable users to complete bookings with minimal steps and maximum clarity. |
+
+### Importance of a User-Friendly Design:
+A user-friendly design is crucial for a booking system to ensure that users can easily find properties, understand their options, and complete bookings with minimal confusion. It enhances the overall user experience, builds trust, and drives engagement.
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+| Role                  | Key Responsibilities |
+|------------------------|-----------------------|
+| Project Manager        | Plan, monitor, and coordinate project timelines and deliverables. |
+| Frontend Developers    | Build and maintain the user interface and ensure responsive design. |
+| Backend Developers     | Handle server-side logic, database management, and API development. |
+| Designers (UI/UX)      | Create visual designs and ensure usability standards are met. |
+| QA/Testers             | Test application functionality and identify bugs/issues. |
+| DevOps Engineers       | Manage deployment pipelines and cloud infrastructure. |
+| Product Owner          | Define the product vision, prioritize features, and communicate requirements. |
+| Scrum Master           | Facilitate agile ceremonies and remove obstacles for the team. |
+
+Each role ensures the project progresses smoothly and that quality standards are maintained throughout development.
+
+---
+
+## 🧩 UI Component Patterns
+
+Planned Components:
+
+- **Navbar**: Navigation menu to switch between pages.
+- **Property Card**: A component that displays individual property info (image, title, price).
+- **Footer**: Bottom section with useful links and branding.
+- **Search Bar**: A dynamic input for filtering property listings.
+- **Booking Form**: For capturing booking details and guest information.
+- **Button Components**: Standardized buttons for actions like “Book Now”, “Sign In”, etc.
+- **Modals**: For displaying login/signup forms and booking confirmations.
+
+Each component will follow reusable and modular design principles for maintainability and scalability.
