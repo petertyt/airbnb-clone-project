@@ -139,3 +139,36 @@ Planned Components:
 - **Modals**: For displaying login/signup forms and booking confirmations.
 
 Each component will follow reusable and modular design principles for maintainability and scalability.
+
+---
+
+### 🎨 Design Properties
+
+#### Color Styles:
+- **Primary Color**: #FF5A5F (Coral Red)
+- **Secondary Color**: #00A699 (Teal Green)
+- **Background Color**: #FFFFFF (White)
+- **Accent Color**: #767676 (Gray)
+- **Button Highlight**: #007A87 (Dark Teal)
+
+#### Typography:
+
+| Property    | Value                     |
+|-------------|----------------------------|
+| Font Family | 'Roboto', sans-serif        |
+| Font Weight | 400 (Regular), 700 (Bold)   |
+| Font Size   | 16px (Base Text), 24px (Headings) |
+
+---
+
+### 🧠 Importance of Identifying Design Properties
+
+Identifying and documenting design properties (such as color palettes, typography, spacing, and UI elements) early in the design process is critical because:
+
+- It **ensures design consistency** across the entire application.
+- It **speeds up development** by providing a clear style guide for developers and designers.
+- It **improves collaboration** between UI/UX teams and developers by eliminating guesswork.
+- It **enhances user experience (UX)** by maintaining a coherent and professional interface.
+- It **simplifies scalability** if the project grows or undergoes redesigns in the future.
+
+A well-defined design system serves as the visual and structural foundation for a professional and user-friendly application.
