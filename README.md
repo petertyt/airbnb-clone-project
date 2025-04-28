@@ -142,25 +142,6 @@ Each component will follow reusable and modular design principles for maintainab
 
 ---
 
-### 🎨 Design Properties
-
-#### Color Styles:
-- **Primary Color**: #FF5A5F (Coral Red)
-- **Secondary Color**: #00A699 (Teal Green)
-- **Background Color**: #FFFFFF (White)
-- **Accent Color**: #767676 (Gray)
-- **Button Highlight**: #007A87 (Dark Teal)
-
-#### Typography:
-
-| Property    | Value                     |
-|-------------|----------------------------|
-| Font Family | 'Roboto', sans-serif        |
-| Font Weight | 400 (Regular), 700 (Bold)   |
-| Font Size   | 16px (Base Text), 24px (Headings) |
-
----
-
 ### 🧠 Importance of Identifying Design Properties
 
 Identifying and documenting design properties (such as color palettes, typography, spacing, and UI elements) early in the design process is critical because:
